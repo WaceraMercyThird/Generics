@@ -1,0 +1,15 @@
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/bin/Debug/net6.0/GenericsApp1
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/bin/Debug/net6.0/GenericsApp1.deps.json
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/bin/Debug/net6.0/GenericsApp1.runtimeconfig.json
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/bin/Debug/net6.0/GenericsApp1.dll
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/bin/Debug/net6.0/GenericsApp1.pdb
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.csproj.AssemblyReference.cache
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.AssemblyInfoInputs.cache
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.AssemblyInfo.cs
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.csproj.CoreCompileInputs.cache
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.dll
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/refint/GenericsApp1.dll
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.pdb
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/GenericsApp1.genruntimeconfig.cache
+/Users/jpmac/RiderProjects/GenericsApp1/GenericsApp1/obj/Debug/net6.0/ref/GenericsApp1.dll
